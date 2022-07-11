@@ -26,6 +26,14 @@ cat is used to print the contents of a file.
 ```
 cat README.md
 ```
+
+## Uses of tr
+tr is used to translate the contents of a file.
+
+``` 
+tr 'a-z' 'A-Z' < README.md
+```
+
 ## Uses of paste
 paste is used to print the contents of a file.
 
@@ -216,3 +224,6 @@ Type of shell :
 2. Zsh
    
 Them are both interpreted by the shell and executed by the shell. The difference is that the Bash shell is a shell that is written in the Bourne Again Shell (BASH) language, while the Zsh shell is a shell that is written in the Zsh language. The Bash shell is the default shell on most UNIX systems, while the Zsh shell is the default shell on most UNIX systems.
+
+
+We show here shell scripting in the following example or bash programming. However, the same can be done in the Zsh shell. Window command prompt has also has the programming language feature. You can use loops, if else statements, functions, arrays, associative arrays, and more. Its call batch scripting.
