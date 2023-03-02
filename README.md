@@ -243,6 +243,20 @@ In Bash, backslash escape sequences are used to insert special characters into s
 
 Note that backslash escape sequences are usually used in conjunction with the `-e` option in the `echo` command to interpret the escape sequences. For example:
 
+# Common ls Options
+
+| Option | Description |
+| ------ | ----------- |
+| `-a`   | Show hidden files and directories |
+| `-l`   | List files in long format |
+| `-h`   | When used with `-l`, display file sizes in human-readable format |
+| `-r`   | Reverse the order of the list |
+| `-t`   | Sort the list by modification time |
+| `-S`   | Sort the list by file size |
+| `-R`   | List subdirectories recursively |
+| `-G`   | Colorize the output |
+| `-1`   | Display each file on a separate line |
+
 
 
 ## Uses of of declare
