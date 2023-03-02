@@ -1,6 +1,6 @@
 # Linux_Shell-Hacker_Rank
 
-## This repo has a Hacker Rank Problem solution and a tutorial on Bash.
+## This repo has a Hacker Rank Problem solution and a basic tutorial on Bash.
 
 ## Uses of echo
 echo is used to print the contents of a variable or a string.
